@@ -13,7 +13,7 @@ namespace KiaanStudyGroup.Models
         public string StudentNumber { get; set; }
 
         [Display(Name = "Name")]
-        public string Naam { get; set; }
+        public string Name{ get; set; }
 
 
 
